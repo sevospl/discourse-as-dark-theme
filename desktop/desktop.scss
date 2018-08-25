@@ -15,6 +15,13 @@ aside.quote .title, blockquote,
     background-color: #292929;
     border-bottom: 3px solid #069;
 }
+.latest-topic-list-item {
+    padding: 1em;
+    border-bottom: 1px solid #545454;
+    display: flex;
+    align-items: center;
+    background-color: #333333;
+}
 #create-topic:hover,
 .topic-list .sortable:hover,
 .drop-down-visible .d-header .icons .active .icon,
