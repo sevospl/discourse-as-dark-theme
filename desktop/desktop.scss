@@ -9,6 +9,12 @@ aside.quote .title, blockquote,
 {
     background-color: #292929;
 }
+.latest-topic-list .table-heading, .top-topic-list .table-heading {
+    padding: 12px 5px;
+    color: #636363;
+    background-color: #292929;
+    border-top: 3px solid #069;
+}
 #create-topic:hover,
 .topic-list .sortable:hover,
 .drop-down-visible .d-header .icons .active .icon,
